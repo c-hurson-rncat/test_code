@@ -8,4 +8,4 @@ Date: 23/04/2026
 Description: Ce script affiche un message de salutation.
 """
 
-print("Bonjour !")
+print("Bonjour les amis !")
